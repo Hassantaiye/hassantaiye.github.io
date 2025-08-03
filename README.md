@@ -2,7 +2,7 @@ Hassan Taiye Software Developer Portfolio
 Live Demo: https://hassantaiye.github.io
 
 🚀 Overview
-A modern, responsive portfolio website showcasing my skills, projects, and professional experience as a software developer. Built with clean, maintainable code and optimized for performance.
+A modern, responsive portfolio website showcasing my skills as an aspiring software developer. Built with clean, maintainable code and optimized for performance.
 
 ✨ Features
 
