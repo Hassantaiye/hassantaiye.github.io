@@ -40,10 +40,10 @@ hassantaiye.github.io-portfolio-/
 └── README.md           # Project documentation 
 🎯 Key Components
 
-#1.Theme System
--Uses CSS variables for easy theme switching
--Toggle persists user preference
--Applies to all sections consistently
+1.Theme System
+- **Uses CSS variables for easy theme switching
+- **Toggle persists user preference
+- **Applies to all sections consistently
 #2.Sections Breakdown
 -Intro Section: Introduction with welcome message and name
 -About Me: picture and about me
