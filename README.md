@@ -5,29 +5,31 @@
 ## 🚀 Overview
 A modern, responsive portfolio website showcasing my skills as an aspiring software developer. Built with clean, maintainable code and optimized for performance.
 
-✨ Features
+## ✨ Features
 
-Responsive Design – Works seamlessly on desktop, tablet, and mobile
-About Me – Professional background and developer journey
-Contact Form – Easy way for recruiters and collaborators to reach out
-🛠 Tech Stack
+- **Responsive Design – Works seamlessly on desktop, tablet, and mobile
+- **About Me – Professional background and developer journey
+- **Contact Form – Easy way for recruiters and collaborators to reach out
+## 🛠 Tech Stack
 
-Frontend: HTML5, CSS3
-Hosting: GitHub Pages
-Version Control: Git & GitHub
-🔧 Installation & Local Development
-Clone the repository:
+- **Frontend: HTML5, CSS3
+- **Hosting: GitHub Pages
+- **Version Control: Git & GitHub
+## 🚀 Installation & Setup
 
-sh
+To run this project locally:
+1. clone the repository:
+```sh
 git clone https://github.com/hassantaiye/hassantaiye.github.io-portfolio-.git
+```
 Navigate to the project folder:
-
-sh
+``` sh
 cd hassantaiye.github.io-portfolio-
+```
 Run locally:
-Open index.html in a browser or use a local server (e.g., VS Code Live Server).
+-** Open index.html in a browser or use a local server (e.g., VS Code Live Server).
 
-📂 Project Structure
+## 📂 Project Structure
 
 Code
 hassantaiye.github.io-portfolio-/  
