@@ -404,26 +404,23 @@ footer{
     text-align: center;
 }
 @media screen and (max-width: 768px) {
-    .header-side{
+    .header-side {
         flex-direction: column;
         align-items: center;
     }
-    .header-nav ul li{
+    .header-nav ul li {
         margin-right: 0;
         margin-bottom: 10px;
     }
-    .home{
+    .home {
         padding-top: 50px;
         padding-bottom: 100px;
     }
-    .about, .education, .interest, .prgramming-language, .contact, .contact-me{
+    .about, .education, .interest, .prgramming-language, .contact, .contact-me {
         flex-direction: column;
-        text-align: center;
+        padding: 50px 20px;
     }
-    .about-logo, .about-me{
-        padding-right: 0;
-        padding-left: 0;
-    }
+    
 }
 
 
