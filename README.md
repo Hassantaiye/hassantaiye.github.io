@@ -64,7 +64,6 @@ Project Name: Personal Portfolio Website
 Description: A modern, responsive site to showcase my work and experience.  
 Tech Stack: HTML, CSS, JavaScript  
 Demo: [Live Site](https://hassantaiye.github.io)  
-Screenshot: ![Portfolio Screenshot](assets/images/portfolio.png)  
 Role: Sole Developer  
 Demonstrates mobile-first layouts, grid systems, and adaptive navigation.
 Interactive Contact Form:
