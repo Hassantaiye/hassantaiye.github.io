@@ -1,5 +1,5 @@
 
-Hassan Taiye Sodtware Developer Portfolio
+Hassan Taiye Software Developer Portfolio
 Live Demo: https://hassantaiye.github.io
 
 🚀 Overview
