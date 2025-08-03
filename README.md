@@ -1,6 +1,6 @@
 
 # Hassan Taiye Software Developer Portfolio
-**Live Demo:** https://hassantaiye.github.io
+**Live Demo:** https://hassantaiye.github.io/hassantaiye.github.io-portfolio-/
 
 ## 🚀 Overview
 A modern, responsive portfolio website showcasing my skills as an aspiring software developer. Built with clean, maintainable code and optimized for performance.
@@ -64,7 +64,7 @@ The portfolio section is the heart of this website, designed to professionally h
 ### Project Name: Personal Portfolio Website  
 ### Description: A modern, responsive site to showcase my work and experience.  
 ### Tech Stack: HTML, CSS, JavaScript  
-- **Demo**: [Live Site](https://hassantaiye.github.io)  
+- **Demo**: [Live Site](https://hassantaiye.github.io/hassantaiye.github.io-portfolio-/)  
 - **Role**: Sole Developer  
 - **Demonstrates** mobile-first layouts, grid systems, and adaptive navigation.
 - **Interactive Contact Form**
