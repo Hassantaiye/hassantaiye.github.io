@@ -72,8 +72,6 @@ The portfolio section is the heart of this website, designed to professionally h
 A visually engaging section presenting my academic achievements and learning path.
 **Project Gallery:**
 Showcases various coding, web design, and collaborative projects, each with its own detail page.
-## 📜 License
-This project is open-source and available under the MIT License.
 
 ## 🤝 Contributing
 While this is a personal portfolio, suggestions and improvements are welcome! Please open an issue or pull request for any significant changes.
