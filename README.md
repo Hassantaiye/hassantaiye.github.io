@@ -41,13 +41,13 @@ hassantaiye.github.io-portfolio-/
 🎯 Key Components
 
 1.Theme System
-- **Uses CSS variables for easy theme switching
-- **Toggle persists user preference
-- **Applies to all sections consistently
-#2.Sections Breakdown
--Intro Section: Introduction with welcome message and name
--About Me: picture and about me
--Education: Academic journey timeline
+- Uses CSS variables for easy theme switching
+- Toggle persists user preference
+- Applies to all sections consistently
+2. Sections Breakdown
+- Intro Section: Introduction with welcome message and name
+- About Me: picture and about me
+- Education: Academic journey timeline
 3.Interest
 4.Programming languages: I'm familiar with HTML, CSS, JavaScript, and Python
 Contact: Email: hassantaiwo204@gmail.com
