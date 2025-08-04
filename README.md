@@ -63,7 +63,7 @@ The portfolio section is the heart of this website, designed to professionally h
 
 ### Project Name: Personal Portfolio Website  
 ### Description: A modern, responsive site to showcase my work and experience.  
-### Tech Stack: HTML, CSS, JavaScript  
+### Tech Stack: HTML, CSS
 - **Demo**: [Live Site](https://hassantaiye.github.io/hassantaiye.github.io-portfolio-/)  
 - **Role**: Sole Developer  
 - **Demonstrates** mobile-first layouts, grid systems, and adaptive navigation.
